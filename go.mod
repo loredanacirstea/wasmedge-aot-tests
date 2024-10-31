@@ -1,5 +1,5 @@
 module example/app
 
-go 1.19
+go 1.21
 
-require github.com/second-state/WasmEdge-go v0.11.2 // indirect
+require github.com/second-state/WasmEdge-go v0.13.4
