@@ -1,5 +1,13 @@
 
 
+
+* build as example
+```
+cd as
+npm run asbuild
+```
+
+
 ```
 go run .
 
